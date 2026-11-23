@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+# Opcionales (el notebook corre sin ellas)
+statsmodels
+xgboost
+# Solo para el dashboard en Python
+streamlit
+altair
